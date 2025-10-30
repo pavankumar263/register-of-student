@@ -1,2 +1,2 @@
-# register-of-student
-The Student Register project in Java manages student data like ID, name, age, and marks using OOP concepts. It allows adding, viewing, updating, and deleting records with ArrayList and Scanner, ensuring data organization, security, and easy handling for efficient student information management.
+# STUDENT-REGISTER
+This Java Swing program creates a **Student Registration Form** with fields for name, gender, course, and address. Users can submit to view details in a dialog or clear the form. It uses `JTextField`, `JRadioButton`, `JComboBox`, `JTextArea`, and `JButton` with `ActionListener` for interaction.
